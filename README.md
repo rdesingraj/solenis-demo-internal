@@ -1,3 +1,4 @@
 # cei-solenis-demo
 
-Updating to feature - this will address the Jira ID 
+Creating feature - this will address the Jira ID 
+Updating to feature - this will include patch to the Jira ID 
