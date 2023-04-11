@@ -1,1 +1,1 @@
-# solenis-demo
+# cei-solenis-demo
